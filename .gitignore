@@ -1,0 +1,9 @@
+unified_planning.egg-info/
+build/
+.coverage
+coverage.xml
+.planners/
+__pycache__/
+.mypy_cache/
+*.pyc
+*~
