@@ -2,7 +2,15 @@ Source: python-unified-planning
 Section: python
 Priority: optional
 Maintainer: Johannes Rothe <rothe@magazino.eu>
-Build-Depends: debhelper-compat (= 12), dh-python, python3-setuptools, python3-all
+Build-Depends:
+ debhelper-compat (= 12),
+ dh-python,
+ python3-setuptools,
+ python3-all,
+ python3-networkx,
+ python3-protobuf,
+ python3-pyparsing,
+ python3-pytest,
 Standards-Version: 4.4.1
 Homepage: https://github.com/aiplan4eu/unified-planning
 Vcs-Browser: https://github.com/aiplan4eu/unified-planning
