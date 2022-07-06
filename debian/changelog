@@ -1,5 +1,5 @@
 python-unified-planning (0.4.0-1) unstable; urgency=medium
 
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * Initial release
 
- -- Johannes Rothe <rothe@magazino.eu>  Wed, 06 Jul 2022 13:28:09 +0200
+ -- Johannes Rothe <rothe@magazino.eu>  Wed, 06 Jul 2022 13:59:19 +0200
