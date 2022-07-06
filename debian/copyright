@@ -1,9 +1,10 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: unified-planning
+Upstream-Name: Unified Planning Framework
+Upstream-Contact: AIPlan4EU Project <aiplan4eu@fbk.eu>
 Source: https://github.com/aiplan4eu/unified-planning
 
 Files: *
-Copyright: 2022 The unified-planning individual contributors
+Copyright: 2022 AIPlan4EU Project
 License: Apache-2.0
 
 Files: debian/*
