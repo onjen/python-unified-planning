@@ -1,3 +1,9 @@
+python-unified-planning (0.4.2-1) UNRELEASED; urgency=medium
+
+  * New upstream version 0.4.2
+
+ -- Johannes Rothe <rothe@magazino.eu>  Wed, 06 Jul 2022 14:01:14 +0200
+
 python-unified-planning (0.4.0-1) unstable; urgency=medium
 
   * Initial release
