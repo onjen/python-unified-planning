@@ -4,3 +4,8 @@ export PYBUILD_NAME=unified-planning
 
 %:
 	dh $@ --with python3 --buildsystem=pybuild
+
+override_dh_auto_clean:
+	dh_auto_clean
+	rm -rf .mypy_cache
+	rm -rf docs/.mypy_cache
