@@ -1,0 +1,4 @@
+--- /dev/null
++++ b/MANIFEST.in
+@@ -0,0 +1 @@
++recursive-include unified_planning/test/pddl/ *.pddl *.hddl

@@ -1,0 +1,18 @@
+--- a/unified_planning/test/test_credits.py
++++ b/unified_planning/test/test_credits.py
+@@ -16,6 +16,7 @@
+ import sys
+ from io import StringIO
+ import unified_planning
++import unittest
+ from unified_planning.shortcuts import *
+ from unified_planning.test import TestCase, skipIfEngineNotAvailable
+ 
+@@ -41,6 +42,7 @@ class TestCredits(TestCase):
+                 self.assertIn(test, printed_credits)
+         set_credits_stream(sys.stdout)
+ 
++    @unittest.skip
+     def test_long_env_credits(self):
+         credits = StringIO()
+         credits_keywords = [
