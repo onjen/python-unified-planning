@@ -21,8 +21,7 @@ Architecture: all
 Depends: 
  ${python3:Depends},
  ${misc:Depends},
- python3-pyparsing,
- python3-networkx
+Suggests: python3-unified-planning-pyperplan
 Description: Formulate planning problems and invoke automated planners (Python 3)
  The unified_planning library makes it easy to formulate planning problems
  and to invoke automated planners.
