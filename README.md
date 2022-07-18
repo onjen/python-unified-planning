@@ -1,3 +1,6 @@
+# READ ONLY
+This project moved to Debian Salsa [here](https://salsa.debian.org/rothe/python-unified-planning)
+
 # The AIPlan4EU Unified Planning Library
 
 [![Actions Status](https://github.com/aiplan4eu/unified-planning/actions/workflows/main.yml/badge.svg)](https://github.com/aiplan4eu/unified-planning/actions)
